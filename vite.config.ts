@@ -23,7 +23,7 @@ export default defineConfig({
       name: 'vue-compositions',
     },
     rollupOptions: {
-      external: ['vue', 'vue-router'],
+      external: ['vue'],
       output: {
         exports: 'named',
         globals: {

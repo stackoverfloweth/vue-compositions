@@ -1,5 +1,5 @@
 {
-  "name": "@prefecthq/vue-compositions",
+  "name": "@stackoverfloweth/vue-compositions",
   "private": false,
   "version": "1.11.4",
   "description": "A collection of reusable vue compositions.",
@@ -57,13 +57,9 @@
   },
   "peerDependencies": {
     "lodash.debounce": "^4.0.8",
-    "vue": "^3.3.0",
-    "vue-router": "^4.0.15"
+    "vue": "^3.3.0"
   },
   "peerDependenciesMeta": {
-    "vue-router": {
-      "optional": true
-    },
     "lodash.debounce": {
       "optional": true
     }
